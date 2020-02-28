@@ -142,6 +142,131 @@
           <img src="../../assets/img/9b29a2cb-a2f1-40f1-a2db-8c091f16493c.jpg"/>
         </a>
       </div>
+      <div class="contain">
+        <div class="container">
+          <div class="contain-bd">
+            <div class="contain-bg"></div>
+          </div>
+          <ul>
+            <li>
+              <a href="#">
+                <p class="pic"><img src="../../assets/img/v30.png"/></p>
+                <p class="sale"><span>双模5G 麒麟990 突破性相机矩阵</span></p>
+                <p title="荣耀V30" class="msg">荣耀V30</p>
+                <p title="双模5G 麒麟990 突破性相机矩阵" class="dpri">限时直降300元</p>
+                <div class="price">
+                  <p>
+                    <span class="price-currency">¥</span>
+                    <span class="num">2999</span>
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <p class="pic"><img src="../../assets/img/mb14.png"/></p>
+                <p class="sale"><span>全面屏微边框轻薄机身</span></p>
+                <p title="荣耀笔记本 MagicBook 14" class="msg">荣耀笔记本 MagicBook 14</p>
+                <p title="全面屏微边框轻薄机身" class="dpri">特惠低至3499起</p>
+                <div class="price">
+                  <p>
+                    <span class="price-currency">¥</span>
+                    <span class="num">3499</span>
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <p class="pic"><img src="../../assets/img/v30pro.png"/></p>
+                <p class="sale"><span>双模5G | 麒麟990 5G SOC芯片</span></p>
+                <p title="荣耀V30 PRO" class="msg">荣耀V30 PRO</p>
+                <p title="双模5G | 麒麟990 5G SOC芯片" class="dpri">限时直降200元</p>
+                <div class="price">
+                  <p>
+                    <span class="price-currency">¥</span>
+                    <span class="num">3699</span>
+                  </p>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="vuecontain">
+            <div class="layout">
+              <ul class="grid-list">
+                <li class="grid-items">
+                  <a href="#">
+                    <p class="pic">
+                      <img class="img" src="../../assets/img/honor20.jpg"/>
+                    </p>
+                    <p class="title" title="荣耀20">荣耀20</p>
+                    <p class="desc" title="4800万超广角AI四摄">4800万超广角AI四摄</p>
+                    <p class="sale">限时直降600元</p>
+                    <div class="price-wrp">
+                      <p class="price">
+                        <span class="price-currency">¥</span>
+                        <span class="price-amount">2999</span>
+                        <span class="price-from">起</span>
+                      </p>
+                    </div>
+                  </a>
+                </li>
+                <li class="grid-items">
+                  <a href="#">
+                    <p class="pic">
+                      <img class="img" src="../../assets/img/honor9x.jpg"/>
+                    </p>
+                    <p class="title" title="荣耀9X">荣耀9X</p>
+                    <p class="desc" title="麒麟810 4000mAh超强续航">麒麟810 4000mAh超强续航</p>
+                    <p class="sale">最高优惠300 送心晴耳机</p>
+                    <div class="price-wrp">
+                      <p class="price">
+                        <span class="price-currency">¥</span>
+                        <span class="price-amount">1099</span>
+                        <span class="price-from">起</span>
+                      </p>
+                    </div>
+                  </a>
+                </li>
+                <li class="grid-items">
+                  <a href="#">
+                    <p class="pic">
+                      <img class="img" src="../../assets/img/honor20s.jpg"/>
+                    </p>
+                    <p class="title" title="荣耀20S">荣耀20S</p>
+                    <p class="desc" title="3200万人像超级夜景">3200万人像超级夜景</p>
+                    <p class="sale">最高优惠300</p>
+                    <div class="price-wrp">
+                      <p class="price">
+                        <span class="price-currency">¥</span>
+                        <span class="price-amount">1599</span>
+                        <span class="price-from">起</span>
+                      </p>
+                    </div>
+                  </a>
+                </li>
+                <li class="grid-items">
+                  <a href="#">
+                    <p class="pic">
+                      <img class="img" src="../../assets/img/honor20q.jpg"/>
+                    </p>
+                    <p class="title" title="荣耀20青春版">荣耀20青春版</p>
+                    <p class="desc" title="AMOLED屏幕指纹">AMOLED屏幕指纹</p>
+                    <p class="sale">最高优惠400</p>
+                    <div class="price-wrp">
+                      <p class="price">
+                        <span class="price-currency">¥</span>
+                        <span class="price-amount">999</span>
+                        <span class="price-from">起</span>
+                      </p>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+      </div>
     </div>
     <footer>
     </footer>
